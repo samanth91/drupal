@@ -1,0 +1,9 @@
+source "https://supermarket.chef.io"
+
+metadata
+
+cookbook 'drupal' 
+cookbook 'apache2' 
+cookbook 'openssl' 
+cookbook 'php' 
+cookbook 'mysql'

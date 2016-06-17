@@ -1,0 +1,13 @@
+name             'cic-wordpress'
+maintainer       'samanth'
+maintainer_email 'samanth.nagulapally@reancloud.com'
+license          'All rights reserved'
+description      'Installs/Configures packer-drupal'
+long_description 'Installs/Configures packer-drupal'
+version          '0.1.0'
+
+depends 'drupal'
+depends 'openssl'
+depends 'mysql'
+depends 'apache2'
+depends 'php'
